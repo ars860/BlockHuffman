@@ -5,7 +5,8 @@
 
 S\_t – bits spent on twogram\
 S\_s – bits spent on letter (without counting the bits spent on transferring the tree)\
-S\_s\_tree – bits spent on letter\
+S\_s\_tree – bits spent on letter
+
 |file\_name|H(X)|H(X\|X)|H(XX)|H(X\|XX)|S\_t|S\_s|S\_s\_tree|file\_size\_bits|file\_size\_bytes|
 |----|----|----|----|----|----|----|----|----|----|
 |bib|5.201|3.364|8.565|2.308|8.596|4.298|4.546|505738|63218|
